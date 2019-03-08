@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/karlosrafaelabellanosa/Desktop/projects/react/final/TrackIt/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
